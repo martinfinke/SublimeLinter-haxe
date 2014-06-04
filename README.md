@@ -1,7 +1,5 @@
-SublimeLinter-contrib-haxe
+SublimeLinter-haxe
 ================================
-
-[![Build Status](https://khancdn.eu/badges.php?service=https%3A%2F%2Ftravis-ci.org%2FSublimeLinter%2FSublimeLinter-contrib-haxe.png%3Fbranch%3Dmaster)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-haxe)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [haxe](http://github.com/martinfinke/SublimeLinter-haxe). It will be used with files that have the “haxe” syntax.
 
